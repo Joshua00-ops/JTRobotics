@@ -1,0 +1,36 @@
+body {
+    front-family: Cursiva, sans-serif;
+    background-color:withe;
+    text-align: center;
+ }
+
+h1 {
+   color:red;
+}
+p {
+  front-size:18px;
+}
+
+img {
+ width:25%;
+borde_radius: 10px;
+box-shadow: 5px 5px 10px gray;
+}
+
+nav{
+background-color:red;
+padding:10px;
+text-aling:center;
+}
+nav ul li{
+display:inline;
+margin:0 15px;
+}
+nav ul li a{
+color:white;
+text-decoration: none;
+front-weight:bold;
+}
+nav ul li a:hover{
+color:blue;
+}
